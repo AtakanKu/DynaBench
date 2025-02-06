@@ -1,7 +1,7 @@
 # DynaBench
 The Dynabench package is an analysis pipeline for molecular dynamic simulations. The package runs analysis in three parts:
-* **Quality Control:** RMSD, RG, and RMSF analysis.
-* **Residue Based:** Biophysical and core-rim classifications; SASA, residue energy analysis.
+* **Quality Control:** RMSD, RG, RMSF, Fnat, Fnonnat, iRMSD, lRMSD, and DockQ Score analysis.
+* **Residue Based:** Biophysical and core-rim classifications; SASA, residue energy, Interface Area and DSSP analysis.
 * **Interaction Based:** Hydrogen, Hydrophobic, and Ionic Bond analysis with corresponding pairwise residues.
 
 For detailed documentation, please visit https://dynabench.gitbook.io/dynabench
