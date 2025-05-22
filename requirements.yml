@@ -8,7 +8,7 @@ dependencies:
   - ipykernel
   - pdbfixer
   - jupyter
-  - python=3.8
+  - python >= 3.9
   - seaborn
   - mdanalysis
   - python-kaleido
